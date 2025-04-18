@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "year": "1950",
+        "genre": "fantasy",
+        "read": true
+    },
+    {
+        "title": "To kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": "1960",
+        "genre": "fiction",
+        "read": false
+    }
+]
